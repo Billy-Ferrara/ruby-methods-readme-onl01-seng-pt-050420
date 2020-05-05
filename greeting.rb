@@ -2,4 +2,4 @@ def greeting
   puts "Hello World"
 end
 
-"#{greeting}" * 10
+puts greeting * 10
